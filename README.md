@@ -2,4 +2,4 @@ this file is for git project.
 this...
 ../.
 ../.
-hduhud
+today is a good day
